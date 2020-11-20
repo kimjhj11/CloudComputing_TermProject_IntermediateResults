@@ -1,0 +1,5 @@
+C:\Users\hhj32\Desktop\UE_pro_test_etc\Steam_test2\myproject\Source\myproject\myproject.Build.cs
+C:\Users\hhj32\Desktop\UE_pro_test_etc\Steam_test2\myproject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\AdvancedSessions.Build.cs
+C:\Users\hhj32\Desktop\UE_pro_test_etc\Steam_test2\myproject\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\AdvancedSteamSessions.Build.cs
+C:\Users\hhj32\Desktop\UE_pro_test_etc\Steam_test2\myproject\Source\myproject.Target.cs
+C:\Users\hhj32\Desktop\UE_pro_test_etc\Steam_test2\myproject\Source\myprojectEditor.Target.cs
